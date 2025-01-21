@@ -967,8 +967,8 @@
       flake = false;
     };
 
-    plugin-inline-fold-nvim = {
-      url = "github:malbertzard/inline-fold.nvim";
+    plugin-tailwind-fold-nvim = {
+      url = "github:razak17/tailwind-fold.nvim";
       flake = false;
     };
   };

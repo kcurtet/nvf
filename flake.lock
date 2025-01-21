@@ -791,22 +791,6 @@
         "type": "github"
       }
     },
-    "plugin-inline-fold-nvim": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1690819538,
-        "narHash": "sha256-o07a6PA2IatlbJo7LroADybpfN1PsFVTamyRz94eZdA=",
-        "owner": "malbertzard",
-        "repo": "inline-fold.nvim",
-        "rev": "d0a24dd55c2fe9477e2636a589499fb7d530e9a3",
-        "type": "github"
-      },
-      "original": {
-        "owner": "malbertzard",
-        "repo": "inline-fold.nvim",
-        "type": "github"
-      }
-    },
     "plugin-leap-nvim": {
       "flake": false,
       "locked": {
@@ -2553,6 +2537,22 @@
         "type": "github"
       }
     },
+    "plugin-tailwind-fold-nvim": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1729283649,
+        "narHash": "sha256-tfou9Qv7i+o6g81tcp6s3FAVJ/4I3BsTosYtboyGry8=",
+        "owner": "razak17",
+        "repo": "tailwind-fold.nvim",
+        "rev": "30b8c04eec28628fbe554fb4f3a26984c4455176",
+        "type": "github"
+      },
+      "original": {
+        "owner": "razak17",
+        "repo": "tailwind-fold.nvim",
+        "type": "github"
+      }
+    },
     "plugin-telescope": {
       "flake": false,
       "locked": {
@@ -2843,7 +2843,6 @@
         "plugin-icon-picker-nvim": "plugin-icon-picker-nvim",
         "plugin-image-nvim": "plugin-image-nvim",
         "plugin-indent-blankline": "plugin-indent-blankline",
-        "plugin-inline-fold-nvim": "plugin-inline-fold-nvim",
         "plugin-leap-nvim": "plugin-leap-nvim",
         "plugin-lsp-lines": "plugin-lsp-lines",
         "plugin-lsp-signature": "plugin-lsp-signature",
@@ -2953,6 +2952,7 @@
         "plugin-smartcolumn": "plugin-smartcolumn",
         "plugin-sqls-nvim": "plugin-sqls-nvim",
         "plugin-tabular": "plugin-tabular",
+        "plugin-tailwind-fold-nvim": "plugin-tailwind-fold-nvim",
         "plugin-telescope": "plugin-telescope",
         "plugin-tiny-devicons-auto-colors": "plugin-tiny-devicons-auto-colors",
         "plugin-todo-comments": "plugin-todo-comments",
