@@ -791,6 +791,22 @@
         "type": "github"
       }
     },
+    "plugin-inline-fold-nvim": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1690819538,
+        "narHash": "sha256-o07a6PA2IatlbJo7LroADybpfN1PsFVTamyRz94eZdA=",
+        "owner": "malbertzard",
+        "repo": "inline-fold.nvim",
+        "rev": "d0a24dd55c2fe9477e2636a589499fb7d530e9a3",
+        "type": "github"
+      },
+      "original": {
+        "owner": "malbertzard",
+        "repo": "inline-fold.nvim",
+        "type": "github"
+      }
+    },
     "plugin-leap-nvim": {
       "flake": false,
       "locked": {
@@ -2827,6 +2843,7 @@
         "plugin-icon-picker-nvim": "plugin-icon-picker-nvim",
         "plugin-image-nvim": "plugin-image-nvim",
         "plugin-indent-blankline": "plugin-indent-blankline",
+        "plugin-inline-fold-nvim": "plugin-inline-fold-nvim",
         "plugin-leap-nvim": "plugin-leap-nvim",
         "plugin-lsp-lines": "plugin-lsp-lines",
         "plugin-lsp-signature": "plugin-lsp-signature",

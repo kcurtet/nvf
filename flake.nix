@@ -966,5 +966,10 @@
       url = "github:RicardoRamirezR/blade-nav.nvim";
       flake = false;
     };
+
+    plugin-inline-fold-nvim = {
+      url = "github:malbertzard/inline-fold.nvim";
+      flake = false;
+    };
   };
 }
