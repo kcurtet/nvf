@@ -167,6 +167,22 @@
         "type": "github"
       }
     },
+    "plugin-blade-nav": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1736436410,
+        "narHash": "sha256-u4pE/zQ0GWo815leqZgdps+roM5xx6wb+SoZsjUr3Ts=",
+        "owner": "RicardoRamirezR",
+        "repo": "blade-nav.nvim",
+        "rev": "77dcd274a9f58fbc80714b87df1a0ea181bfb795",
+        "type": "github"
+      },
+      "original": {
+        "owner": "RicardoRamirezR",
+        "repo": "blade-nav.nvim",
+        "type": "github"
+      }
+    },
     "plugin-bufdelete-nvim": {
       "flake": false,
       "locked": {
@@ -2772,6 +2788,7 @@
         "plugin-aerial-nvim": "plugin-aerial-nvim",
         "plugin-alpha-nvim": "plugin-alpha-nvim",
         "plugin-base16": "plugin-base16",
+        "plugin-blade-nav": "plugin-blade-nav",
         "plugin-bufdelete-nvim": "plugin-bufdelete-nvim",
         "plugin-catppuccin": "plugin-catppuccin",
         "plugin-ccc": "plugin-ccc",

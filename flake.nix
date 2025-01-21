@@ -960,5 +960,11 @@
       url = "github:echasnovski/mini.visits";
       flake = false;
     };
+
+    # Custom Plugins
+    plugin-blade-nav = {
+      url = "github:RicardoRamirezR/blade-nav.nvim";
+      flake = false;
+    };
   };
 }
